@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+*.png
+*.tlog
+*.log
+*.idb
+*.pdb
+*.sdf
+
+lab/Debug/
+
